@@ -28,7 +28,7 @@ class RentingSystem:
             if choice == "1":
                 megjelenit_adatokat(
                     self._berles.vehicles,
-                    fejlec=["id", "rendszam", "tipus", "berleti_dij"]
+                    fejlec=["id", "rendszam", "tipus", "berletidij"]
                 )
 
             elif choice == "2":
