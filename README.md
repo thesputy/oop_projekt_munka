@@ -1,0 +1,9 @@
+Author: Debreceni Péter
+Szak: Mérnökinformatikus BSc
+Neptun: D67OJV
+# GDE Autókölcsönző
+
+Konzolos Python program, amely autóbérlést kezel.
+Futtatás: `python main.py`
+
+Opcionálisan: `pip install -r requirements.txt`
